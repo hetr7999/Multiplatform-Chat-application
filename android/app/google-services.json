@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "94733186005",
+    "firebase_url": "https://lightning-chat-1.firebaseio.com",
+    "project_id": "lightning-chat-1",
+    "storage_bucket": "lightning-chat-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94733186005:android:597ee1bd4d8a96fd85435c",
+        "android_client_info": {
+          "package_name": "com.viraj.lightning_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94733186005-98vlvetgjqsp6kurqf3chkjgn48976eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU3GuZmpALfgyWad2K7MyJFFSzmPUjJ7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94733186005-98vlvetgjqsp6kurqf3chkjgn48976eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
